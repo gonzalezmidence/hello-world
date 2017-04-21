@@ -1,2 +1,4 @@
 # hello-world
-Repisitorio inicio tutorial
+Repositorio inicio tutorial
+
+primeras pruebas de industrino
